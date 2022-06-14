@@ -459,8 +459,8 @@ display: none;
 @media (max-width:768px){
   .main{
     width: 100%;
-    margin:10px 0px;
-    padding:20px 0px;
+    margin:40px 0px;
+    padding:40px 0px;
   }
   .section-wrapper{
     width:94%;
